@@ -46,11 +46,10 @@ Currently cardiovascular diseases (CVDs) are the main cause of death worldwide. 
  8-Evaluation of every model
  9-Comparison with respect to Recall Score
  
-  # Conclusion 
+  # Conclusion
   
+  1.From the above chart of recall score of various model,we can conclude that KNN Classifier hold the maximum recall score which makes it most desirelable while        logistic regression gives the minimum recall score.
   
-     1-From the above chart of recall score of various model,we can conclude that KNN Classifier hold the maximum recall score which makes it most desirelable while logistic regression gives the minimum recall score.
-
    2-While Logistic Regression Model having the least recall score.
 
    3-Random Forest Classifier and XGBoost Classifier takes more time in training the model.
