@@ -37,13 +37,21 @@ Currently cardiovascular diseases (CVDs) are the main cause of death worldwide. 
   # STEPS-
   
  1-Data Import
+ 
  2-Removing non relevant featues like Id,Education
+ 
  3-Data exploration then removing not impacting features like Prevalent Stroke,BPMeds,Smoking etc
+ 
  4-Removing collinerar features like SysBP.
+ 
  5-Data cleaning (removing null values,outliers)
+ 
  6-Converting unbalanced data into balanced using SMOTE
+ 
  7-Applying different models and evaluating them on both Unbalanced and Balanced Data
+ 
  8-Evaluation of every model
+ 
  9-Comparison with respect to Recall Score
  
   # Conclusion
