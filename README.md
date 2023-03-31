@@ -17,7 +17,9 @@ Currently cardiovascular diseases (CVDs) are the main cause of death worldwide. 
   Prevalent Hyp: whether or not the patient was hypertensive (Nominal)
 
   Diabetes: whether or not the patient had diabetes (Nominal)
-  #Medical(current)
+  
+  # Medical(current)
+  
   Tot Chol: total cholesterol level (Continuous)
 
   Sys BP: systolic blood pressure (Continuous)
@@ -31,7 +33,9 @@ Currently cardiovascular diseases (CVDs) are the main cause of death worldwide. 
   Glucose: glucose level (Continuous)Predict variable (desired target)
 
   10-year risk of coronary heart disease CHD(binary: “1”, means “Yes”, “0” means “No”) -
-  #STEPS-
+  
+  # STEPS-
+  
  1-Data Import
  2-Removing non relevant featues like Id,Education
  3-Data exploration then removing not impacting features like Prevalent Stroke,BPMeds,Smoking etc
@@ -41,7 +45,10 @@ Currently cardiovascular diseases (CVDs) are the main cause of death worldwide. 
  7-Applying different models and evaluating them on both Unbalanced and Balanced Data
  8-Evaluation of every model
  9-Comparison with respect to Recall Score
-  #Conclusion 
+ 
+  # Conclusion 
+  
+  
      1-From the above chart of recall score of various model,we can conclude that KNN Classifier hold the maximum recall score which makes it most desirelable while logistic regression gives the minimum recall score.
 
    2-While Logistic Regression Model having the least recall score.
