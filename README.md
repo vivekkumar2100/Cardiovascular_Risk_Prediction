@@ -1,11 +1,11 @@
 # Cardiovascular_Risk_Prediction
-#CLASSIFICATION UNDER SUPERVISED MACHINE LEARNING
+# CLASSIFICATION UNDER SUPERVISED MACHINE LEARNING
 Currently cardiovascular diseases (CVDs) are the main cause of death worldwide. Disease risk estimates can be used as prognostic information and support for treating CVDs. The commonly used Framingham risk score (FRS) for CVD prediction is outdated for the modern population, so FRS may not be accurate enough. In this paper, a novel CVD prediction system based on machine learning is proposed.
-#Data Description
+# Data Description
  Sex: male or female("M" or "F")
 
  Age: Age of the patient;(Continuous - Although the recorded ages have been truncated to whole numbers, the concept of age is continuous)
- #Behavioral
+ # Behavioral
   is_smoking: whether or not the patient is a current smoker ("YES" or "NO")
 
  Cigs Per Day: the number of cigarettes that the person smoked on average in one day.(can be considered continuous as one can have any number of cigarettes, even half a cigarette.)
